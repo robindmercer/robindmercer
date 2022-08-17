@@ -17,10 +17,12 @@ Las aptitudes que me favorecen en mi trabajos seria:
 2.- Planificar y Dirigir el desarrollo de la aplicación tanto en el Front End como en el Back End 
     para poder cumplir con los Dead Lines que hemos acordado.
 
-3.- Organizar equipos de testeo de la aplicación, en la cual incluye los usuarios que crearon el requerimiento
-    como así también el/los usuarios que usaran la aplicación una vez implementada.
+3.- Organizar equipos de testeo de la aplicación, en la cual incluye los usuarios que crearon el 
+    requerimiento como así también el/los usuarios que usaran la aplicación una vez implementada.
 ```
 ✨ [Linkedin](https://www.linkedin.com/in/robin-mercer-0222b2242)
+✨ [Henry Proyecto Individual](https://pi-food-rm.netlify.app/)
+✨ [Henry Proyecto Grupal](https://pg-vinos.vercel.app)
 <!--
 **robindmercer/robindmercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
